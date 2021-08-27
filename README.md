@@ -45,8 +45,3 @@ This will open the Jupyter Notebook software and project file in your browser.
 ### Data
 
 The dataset can be found here: http://www.seanlahman.com/baseball-archive/statistics/
-
-
-## Acknowledgments
-
-* Udacity for the template code in the python notebook
